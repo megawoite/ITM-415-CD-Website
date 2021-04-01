@@ -1,1 +1,1 @@
-alert('HonHonHon!')
+alert('HonHon')
